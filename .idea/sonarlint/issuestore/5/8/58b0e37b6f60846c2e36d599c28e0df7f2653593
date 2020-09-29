@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶œªÄüÿÿÿÿ8ú–’ÉÍ.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Ä®Â˜8ú–’ÉÍ.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(Î¥ÎÙ8ú–’ÉÍ.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(…ş°Ò8ú–’ÉÍ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(íüœ-8ú–’ÉÍ.
+H
+java:S1172"+Remove this unused method parameter "args".(Çµí‘8¬àËÍÍ.

@@ -1,0 +1,25 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+`
+0src/main/java/be/smals/commands/GamesWorker.java,e\8\e8be590ff01e8ce90891d878d953e66402605852
+\
+,src/main/java/be/smals/commands/Command.java,a\8\a862d17ada0f644e2accc84135c92908060e44ba
+Y
+)src/main/java/be/smals/commands/Exit.java,a\4\a4a919c6c4128a2e789576d75e50c6c66d1be341
+P
+ src/main/java/be/smals/Main.java,5\8\58b0e37b6f60846c2e36d599c28e0df7f2653593
+[
++src/main/java/be/smals/domain/Category.java,e\6\e6ec58669b185cfb2718d83d5addd422c3c9e119
+c
+3src/main/java/be/smals/commands/CommandOptions.java,7\3\73d1d0e868d9c9f74ace49f024bb19e6ef76c563
+g
+7src/main/java/be/smals/commands/ShowCategoryWithId.java,4\c\4c40e1daf9869fed3e9f7788eaddc309ccc66b9f
+a
+1src/main/java/be/smals/commands/GetIdCommand.java,3\2\3236aac8992caa0776e6a2fac6f8a8e794f07f7e
+c
+3src/main/java/be/smals/commands/ShowGameWithId.java,6\1\61a7d5a1a2de119890f085714fbe2be08240a001
+l
+<src/main/java/be/smals/repositories/GamesJDBCRepository.java,1\9\195b4dbc972f585dba8387042c71955f809251db
+W
+'src/main/java/be/smals/domain/Game.java,4\6\46e89d6c2e6f3df7c26e154a6c32b842192179f0

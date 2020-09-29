@@ -1,0 +1,19 @@
+
+H
+java:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ8ŒÁÍÍ.
+P
+java:S1068".Remove this unused "maxPlayres" private field.(ĞÏŞ·ûÿÿÿÿ8ŒÁÍÍ.
+r	java:S116"QRename this field "Author" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§•èÏşÿÿÿÿ8ŒÁÍÍ.
+Q
+java:S1068"/Remove this unused "category_id" private field.(ÖÀ–Öıÿÿÿÿ8ŒÁÍÍ.
+K
+java:S1068")Remove this unused "price" private field.(ËŒÑÎúÿÿÿÿ8ŒÁÍÍ.
+R
+java:S1068	"0Remove this unused "year_edition" private field.(í×³½øÿÿÿÿ8ŒÁÍÍ.
+N
+java:S1068"1Remove this unused "difficulty_id" private field.(À•Ê”8ŒÁÍÍ.
+t	java:S116"XRename this field "difficulty_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À•Ê”8ŒÁÍÍ.
+x	java:S116	"WRename this field "year_edition" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í×³½øÿÿÿÿ8ŒÁÍÍ.
+w	java:S116"VRename this field "category_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÀ–Öıÿÿÿÿ8ŒÁÍÍ.
+K
+java:S1068".Remove this unused "minPlayers" private field.(ç³—ì8ŒÁÍÍ.
