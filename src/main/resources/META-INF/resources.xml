@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomee>
+    <Resource id="games" type="javax.sql.DataSource">
+        jdbcDriver = com.mysql.cj.jdbc.Driver
+        jdbcUrl = jdbc:mysql://localhost:3306/games?serverTimezone=UTC
+        jtaManaged = true
+        password =root
+        userName =root
+    </Resource>
+
+    <Resource id="gamesUnmanaged" type="javax.sql.DataSource">
+        jdbcDriver = com.mysql.cj.jdbc.Driver
+        jdbcUrl = jdbc:mysql://localhost:3306/games?serverTimezone=UTC
+        jtaManaged = false
+        password =root
+        userName =root
+    </Resource>
+</tomee>

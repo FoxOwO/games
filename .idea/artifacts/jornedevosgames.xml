@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jornedevosgames">
+    <output-path>$PROJECT_DIR$/out/artifacts/jornedevosgames</output-path>
+    <root id="archive" name="jornedevosgames.war" />
+  </artifact>
+</component>

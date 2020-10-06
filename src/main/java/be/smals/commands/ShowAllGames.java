@@ -14,7 +14,7 @@ public class ShowAllGames implements Command {
         GamesJDBCRepository gamesJDBCRepository = GamesJDBCRepository.getInstance();
         Optional<List<Game>> reply =  gamesJDBCRepository.findAllGames();
         if (reply.isPresent()){
-            reply.get().stream().sorted(Comparator.comparing(Game::getName)).forEach(g -> System.out.printf("%-40s %-50s %-5.2f%n", g.getName(), g.getEditor(), g.getPrice()));
+            reply.get().stream().sorted(Comparator.comparing(Game::getGameName)).forEach(g -> System.out.printf("%-40s %-50s %-5.2f%n", g.getGameName(), g.getEditor(), g.getPrice()));
         } else {
             System.out.println("No games found.");
         }

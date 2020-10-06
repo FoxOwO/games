@@ -1,8 +1,10 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶œªÄüÿÿÿÿ8ú–’ÉÍ.
-U	java:S106("9Replace this use of System.out or System.err by a logger.(Ä®Â˜8ú–’ÉÍ.
-U	java:S106!"9Replace this use of System.out or System.err by a logger.(Î¥ÎÙ8ú–’ÉÍ.
-U	java:S1062"9Replace this use of System.out or System.err by a logger.(…ş°Ò8ú–’ÉÍ.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(íüœ-8ú–’ÉÍ.
-H
-java:S1172"+Remove this unused method parameter "args".(Çµí‘8¬àËÍÍ.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(§¨şÍ8¥àÎÍ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(íüœ-8 ·äÎÍ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8 ·äÎÍ.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(Î¥ÎÙ8¥àÎÍ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶œªÄüÿÿÿÿ8¥àÎÍ.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Ä®Â˜8¥àÎÍ.
+?
+java:S2189""Add an end condition to this loop.(ä¦ß½8£ƒãÎÍ.
